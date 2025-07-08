@@ -15,6 +15,7 @@ I am a 24 year old web designer & aspiring game developer from Finland, tech and
 - Figma, Adobe Photoshop for design
 - Davinci Resolve, Adobe Premiere, MAGIX/Sony Vegas for video editing, and a bit of Adobe After Effects for motion graphics
 - Also a bit of experience with creating renders and 3D models using Blender
+- Notion to stay organized
 
 #### 📝 currently working on...
 - A private project in which I use HTML and JavaScript to get information from specific resources and building easily accessable links to said resources.
