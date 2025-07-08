@@ -11,6 +11,7 @@ I am a 24 year old web designer & aspiring game developer from Finland, tech and
 
 #### 💾 software & operating systems
 - Windows 10/11, Fedora Linux, macOS
+- Visual Studio and VSCodium (Visual Studio Code), nano for basic config editing on linux.
 - A bit of experience with Ubuntu & Debian for running server stuff, currently looking into building a NAS solution for myself and what would be the best software solution for my use specifically
 - Figma, Adobe Photoshop for design
 - Davinci Resolve, Adobe Premiere, MAGIX/Sony Vegas for video editing, and a bit of Adobe After Effects for motion graphics
