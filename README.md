@@ -1,7 +1,7 @@
 ### **hello i am sami 👋**
 
 ### ℹ️ about me
-I am a 24 year old web designer & aspiring game developer from Finland, tech and design has always been a passion of mine so naturally this is where i've ended up. Mostly working on projects of my own these days while trying to look for a job.
+I am a 25 year old web designer & aspiring game developer from Finland, tech and design has always been a passion of mine so naturally this is where i've ended up. Mostly working on projects of my own these days while trying to look for a job.
 
 ### 🛠️ what do i know?
 #### 💻 languages & frameworks
