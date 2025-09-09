@@ -21,6 +21,7 @@ I am a 24 year old web designer & aspiring game developer from Finland, tech and
 #### 📝 currently working on...
 - A private project in which I use HTML and JavaScript to get information from specific resources and building easily accessable links to said resources.
 - nano, a fun little discord bot that utilizes a few API's and markov chains to generate some text based on chats.
+- vacuum, a simple python ytdlp implementation for mainly personal use.
 - Also constantly working on improving my portfolio and skills in general, always looking for new things to learn.
 
 [Check out my Portfolio and CV here!](https://koskisami.github.io/)
