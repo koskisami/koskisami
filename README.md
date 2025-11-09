@@ -1,7 +1,7 @@
 ### **hello i am sami 👋**
 
 ### ℹ️ about me
-I am a 25 year old web designer & aspiring game developer from Finland, tech and design has always been a passion of mine so naturally this is where i've ended up. Mostly working on projects of my own these days while trying to look for a job.
+I am a 25 year old designer, video editor & aspiring software/game developer from Finland, tech and design has always been a passion of mine so naturally this is where i've ended up. Mostly working on projects of my own these days while trying to look for a job.
 
 ### 🛠️ what do i know?
 #### 💻 languages & frameworks
@@ -10,10 +10,10 @@ I am a 25 year old web designer & aspiring game developer from Finland, tech and
 - Unity Game Engine for game development, currently looking into learning Godot too
 
 #### 💾 software & operating systems
-- Windows 10/11, Fedora Linux, macOS
-- Visual Studio and VSCodium (Visual Studio Code), nano for basic config editing on linux.
-- A bit of experience with Ubuntu & Debian for running server stuff, currently looking into building a NAS solution for myself and what would be the best software solution for my use specifically
-- Figma, Adobe Photoshop for design
+- Windows 11, Arch Linux, macOS
+- Visual Studio and Visual Studio Code, Nano for basic config editing on linux.
+- Experience with multiple different Linux distros (Arch is what I main nowadays but I have experience with Fedora, Ubuntu and Debian)
+- Figma, Affinity, Adobe Photoshop for design
 - Davinci Resolve, Adobe Premiere, MAGIX/Sony Vegas for video editing, and a bit of Adobe After Effects for motion graphics
 - Also a bit of experience with creating renders and 3D models using Blender
 - Notion to stay organized
