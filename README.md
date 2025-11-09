@@ -7,7 +7,7 @@ I am a 25 year old designer, video editor & aspiring software/game developer fro
 #### 💻 languages & frameworks
 - HTML, JavaScript, C#, Python, PHP, Ruby, MySQL
 - A bit of React and React Native, along with Kotlin for Android app development
-- Unity Game Engine for game development, currently looking into learning Godot too
+- Unity Game Engine for game development, currently learning Godot too
 
 #### 💾 software & operating systems
 - Windows 11, Arch Linux, macOS
